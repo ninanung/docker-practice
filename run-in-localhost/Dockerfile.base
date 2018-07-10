@@ -1,0 +1,8 @@
+FROM centos:latest
+MAINTAINER 0.1 foo@bar.com
+
+RUN yum install -y httpd
+
+ONBUILD ADD website.tar /var/www/html/
+
+CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]

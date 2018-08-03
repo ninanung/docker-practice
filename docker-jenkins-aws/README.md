@@ -29,4 +29,6 @@ __--amazonec2-open-port__ : open port for this server. I open two ports that are
 __host__ : name of instance in AWS and docker-machine.  
 
 ## Result  
-Now i can connect to jenkins with internet, not local. I think i can also use this for web service.
+Now i can connect to jenkins with internet, not local. I think i can also use this for web service.  
+
+You can connect to my [jenkins page](http://13.209.18.97:8080/).

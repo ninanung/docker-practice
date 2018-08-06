@@ -1,7 +1,6 @@
 # Docker sample  
 
 ## Prerequire  
-
 1. AWS(Amazon Web service) account.
 2. docker-machine install.
 3. knowledge about docker, docker-machine and AWS EC2.

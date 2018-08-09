@@ -1,4 +1,9 @@
 # Docker practice
 
-I'm not a server man, but docker is pretty interesting and useful.  
-I think i can make this repo as kinda "Hello World" documents for docker starters. I'll need some time to do that i guess.  
+## Run in localhost  
+
+Local envirenment is important for web developers. Docker will help you to set up.  
+This is a sample project to deploy static web page locally.  
+
+## Web and log  
+
